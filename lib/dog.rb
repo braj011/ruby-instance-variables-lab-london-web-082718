@@ -1,8 +1,7 @@
-NOTES 
+# NOTES 
 
 
-Think of instance variables as the containers for instance-specific information.
-
+# Think of instance variables as the containers for instance-specific information.
 
 
 class Dog
